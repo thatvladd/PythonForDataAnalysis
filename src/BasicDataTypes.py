@@ -53,4 +53,5 @@ listOfLists.index(["dad",180]) #? returns index of the value from list
 listOfLists.count(['dad',180]) #? returns number of occurances
 "python".capitalize() #? capitalizes string
 listOfInts.remove(1) #? removes first occurence of value
-listOfInts.replace(1, 25); #? replaces old with new value
+print("string".replace("str", "do")) #? replaces parts of string
+# help(str)
